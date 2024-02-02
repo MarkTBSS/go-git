@@ -8,4 +8,5 @@ func multiple(a, b int) int {
 
 func main() {
 	fmt.Println("Hello Github!")
+	fmt.Println(multiple(1, 2))
 }
